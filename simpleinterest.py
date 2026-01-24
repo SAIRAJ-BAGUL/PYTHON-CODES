@@ -1,0 +1,5 @@
+P=int(input("ENTER PRINCIPLE AMOUNT :- "))
+R=int(input("ENTER ANNUAL INTEREST PERCENTAGE :- "))
+N=int(input("ENTER NUMBERS OF YEARS :- "))
+S=((P*R*N)/100)
+print("SIMPLE INTEREST IS :- ",S)
