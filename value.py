@@ -1,0 +1,6 @@
+A=input("ENTER VALUE OF A :- ")
+print("VALUE OF A IS ",A)
+B=input("ENTER VALUE OF B ;- ")
+print("VALUE OF B IS ",B)
+input(type(A))
+input(type(A))
