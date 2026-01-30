@@ -1,0 +1,16 @@
+# TO CALCULATE THE GROSS SALARY.
+
+BS=int(input("ENTER YOUR BASE SALARY :- "))
+print()
+print("HRA IS ",BS*70/100)
+print()
+print("DA IS ",BS*30/100)
+print()
+print("TA IS ",BS*10/100)
+print()
+print("GROSS SALARY IS ",BS+(BS*70/100)+(BS*30/100)+(BS*10/100))
+print()
+
+"""HERE HRA IS HOUSE RENT ALLOWANCE
+   DA IS DEARNES ALLOWANCE
+   TA IS TRAVEL ALLOWANCE."""
