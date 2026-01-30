@@ -10,9 +10,3 @@ print("A/B IS ",A/B)
 print("A%B IS ",A%B)
 print("A//B IS ",A//B)
 print("A**B IS ",A**B)
-<<<<<<< HEAD
-
-"""HERE A//B MEANS DIVISION WITHOUT ANY DECIMAL,
-   AND A**B MEANS A TO THE POWER B."""
-=======
->>>>>>> 1995cb10da2fdde7ec964720457a2e1e01534420
